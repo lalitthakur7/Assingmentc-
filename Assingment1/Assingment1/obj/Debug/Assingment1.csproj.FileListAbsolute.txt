@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Assingment1\Assingment1\bin\Debug\Assingment1.exe.config
+C:\Users\ASUS\source\repos\Assingment1\Assingment1\bin\Debug\Assingment1.exe
+C:\Users\ASUS\source\repos\Assingment1\Assingment1\bin\Debug\Assingment1.pdb
+C:\Users\ASUS\source\repos\Assingment1\Assingment1\obj\Debug\Assingment1.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Assingment1\Assingment1\obj\Debug\Assingment1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Assingment1\Assingment1\obj\Debug\Assingment1.exe
+C:\Users\ASUS\source\repos\Assingment1\Assingment1\obj\Debug\Assingment1.pdb
